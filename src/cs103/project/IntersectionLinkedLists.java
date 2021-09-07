@@ -2,6 +2,12 @@ package cs103.project;
 
 import java.util.List;
 
+/*
+Date su “glave” (“heads”) jednostruko povezane liste headA i headB. 
+Vratiti “čvor” (“node”) u kojem se dve liste ukrštaju.
+Ukoliko 2 povezane liste nemaju ukrštanje vratiti vrednost null.
+*/
+
 public class IntersectionLinkedLists {
 
     List<Integer> listA;
