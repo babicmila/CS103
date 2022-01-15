@@ -12,6 +12,6 @@ Solution for the following Leetcode problems:
 5) Longest Palindromic Substring
 6) Spiral matrix
 7) Rotate list
-8) Permutation Sequence
+8) Kth Smallest Element in a Binary Search Tree
 9) Validate Binary Tree Nodes
 10) Course Schedule II - Graph
