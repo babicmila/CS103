@@ -14,4 +14,4 @@ Solution for the following Leetcode problems:
 7) Rotate list
 8) Kth Smallest Element in a Binary Search Tree
 9) Validate Binary Tree Nodes
-10) Course Schedule II - Graph
+10) All Paths From Source to Target - Graph
