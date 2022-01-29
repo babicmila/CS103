@@ -32,7 +32,7 @@ public class KthSmallestElementBST {
 
     public int kthSmallest(TreeNode root, int k) {
 
-        findFullNode(root);
+        inorderTraversal(root);
 
         for (int i = 0; i < k - 1; i++) {
 
@@ -41,13 +41,13 @@ public class KthSmallestElementBST {
         return pq.remove();
     }
 
-    public void findFullNode(TreeNode root) {
+    public void inorderTraversal(TreeNode root) {
 
         if (root != null) {
 
             pq.add(root.val);
-            findFullNode(root.left);
-            findFullNode(root.right);
+            inorderTraversal(root.left);
+            inorderTraversal(root.right);
         }
 
     }
