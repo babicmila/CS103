@@ -13,5 +13,5 @@ Solution for the following Leetcode problems:
 6) Spiral matrix
 7) Rotate list
 8) Kth Smallest Element in a Binary Search Tree
-9) Validate Binary Tree Nodes
+9) Binary Tree Maximum Path Sum
 10) All Paths From Source to Target - Graph
